@@ -1,4 +1,6 @@
-# ProFi
-A DeFi Bot on Telegram
+<p align="center">
+  <img src="./img/profi_logo.png" alt="ProFi logo" width="300" height="300">
+</p>
 
-![ProFi logo](./img/profi_logo.png)
+# ProFi
+A DeFi Chatbot
