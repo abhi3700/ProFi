@@ -4,3 +4,5 @@
 
 # ProFi
 A DeFi Chatbot
+
+## [Documentation](https://github.com/abhi3700/ProFi/wiki)
